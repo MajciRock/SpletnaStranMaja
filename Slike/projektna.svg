@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg488"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="projektna.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview490"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="410.12193"
+     inkscape:cy="271.529"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs485">
+    <rect
+       x="638"
+       y="708"
+       width="214"
+       height="35.5"
+       id="rect226" />
+    <rect
+       x="447.5"
+       y="686"
+       width="14.5"
+       height="19"
+       id="rect220" />
+  </defs>
+  <g
+     inkscape:label="Plast 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect498"
+       style="fill:#ff8080;stroke-width:0.264583"
+       d="m 64.823382,20.359257 c -0.072,-0.0484 -15.227676,14.82235 -20.598774,20.22821 -6.118458,-6.72203 -12.156337,-13.3133 -18.270719,-20.02978 -0.05313,-0.0482 -0.138889,-0.11328 -0.172609,-0.13178 -0.04707,-0.0166 -0.143123,-0.0646 -0.209199,-0.0667 -2.543216,0.0333 -5.639732,0.076 -8.001637,0.10549 -0.240372,0.0264 -0.5099,0.17329 -0.618333,0.30809 -0.250893,0.62019 -0.333716,1.28772 -0.382122,2.03337 l -0.0036,67.787585 9.237679,-0.0165 -0.03307,-61.825675 18.453654,19.40812 20.581173,-19.36729 V 90.562262 H 76.973558 V 20.367067 c -4.232954,-0.0634 -8.52868,0.0516 -12.150155,-0.008 z"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <path
+       id="rect554"
+       style="fill:#c83737;stroke-width:0.264583"
+       d="m 72.773284,20.359257 c -0.22161,0 -0.399975,0.17837 -0.399975,0.39998 v 69.603495 c 0,0.22161 0.161829,0.20154 0.383439,0.20154 h 5.616709 c 0.22161,0 0.39998,0.0201 0.39998,-0.20154 V 53.760837 h 22.698873 c 2.55323,-0.49734 5.72747,-1.57617 8.44125,-2.37091 l 4.05453,-5.57744 c 0.0693,-4.9068 0.13844,-9.8494 0.20774,-14.7562 l -3.86592,-7.42694 -8.60361,-3.25562 c -7.615473,0.0891 -15.437583,-0.0222 -23.126233,-0.0222 -1.876839,-0.15539 -3.889693,0.008 -5.806783,0.008 z m 6.000153,9.00049 H 101.2625 l 4.10001,2.93264 0.29197,10.96057 -4.07985,2.93315 v -0.0258 H 78.773437 Z"
+       sodipodi:nodetypes="csssssccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;white-space:pre;inline-size:48.5397;display:inline;fill:#000000;stroke-width:0.264583"
+       x="118.66563"
+       y="182.5625"
+       id="text166"
+       transform="matrix(1.4460027,0,0,1.4658322,-156.30467,-160.34988)"><tspan
+         x="118.66563"
+         y="182.5625"
+         id="tspan223"> MP Logotip by Maja Polak is </tspan><tspan
+         x="118.66563"
+         y="186.53124"
+         id="tspan225">licensed under CC BY-NC-SA 4.0 </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text218"
+       style="white-space:pre;shape-inside:url(#rect220);display:inline;fill:#ff8080" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text224"
+       style="white-space:pre;shape-inside:url(#rect226);display:inline;fill:#ff8080" />
+  </g>
+</svg>

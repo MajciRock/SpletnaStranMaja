@@ -1,0 +1,58 @@
+/* Komentar */
+/*color.adobe.com*/
+
+body {
+	font-size: 16px;
+	font-family: Arial;
+	background-color: #E8ECF9;
+}
+
+#naslov {
+	display: flex;
+}
+
+img {
+	margin-top: 20px;
+	height: 100px;
+}
+
+nav {
+	
+	display: flex;
+	width: auto;
+	
+}
+
+nav a {
+	padding: 20px 40px;
+	color: black;
+	background-color: #CC99FF;
+}
+
+.besedilo {
+	display: flex;
+	
+}
+
+.uvod {
+	float: left;
+	width: 40%;
+	margin: 25px;
+	font-size: 20px;
+	border: solid;
+	border-color: gray;
+	padding: 5px;
+}
+
+.podatki {
+	float: right;
+	width: 50%;
+	border: solid;
+	padding: 5px;
+	border-color: gray;
+}
+
+footer {
+	text-align: center;
+	
+}
